@@ -10,7 +10,7 @@ interactive programming and OpenGl. Uses Penumbra
 
 See more info in this blog post: http://messynotebook.com/?p=1496
 
-== REQUISITES
+== REQUISITES:
 
 Install Leiningen (http://github.com/technomancy/leiningen) if you
 don't have it already.
@@ -22,11 +22,11 @@ Install project dependencies in root dir by running first 'lein deps', then
 
 Then run test suite with 'lein test'.
 
-== RUNNING IT FROM EMACS
+== RUNNING IT FROM EMACS:
 
 Start repl process with 'lein swank' in root dir.
 
-Connect to it from Emacs with
+Connect to swank process from Emacs with
 '<slime-connect>' command.  Then evaluate the entire
 src/clojureTetris/main.clj file to start playing Tetris.
 

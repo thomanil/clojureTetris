@@ -1,8 +1,7 @@
-= clojureTetris
+# clojureTetris
 
-* http://github.com/thomanil/clojureTetris
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 A simple Tetris implementation used to learn basic Clojure,
 interactive programming and OpenGl. Uses Penumbra
@@ -10,19 +9,19 @@ interactive programming and OpenGl. Uses Penumbra
 
 See more info in this blog post: http://messynotebook.com/?p=1496
 
-== REQUISITES:
+## REQUISITES:
 
 Install Leiningen (http://github.com/technomancy/leiningen) if you
 don't have it already.
 
-== INSTALL:
+## INSTALL:
 
 Install project dependencies in root dir by running first 'lein deps', then
 'lein native-deps'.
 
 Then run test suite with 'lein test'.
 
-== RUNNING IT FROM EMACS:
+## RUNNING IT FROM EMACS:
 
 Start repl process with 'lein swank' in root dir.
 
@@ -30,7 +29,7 @@ Connect to swank process from Emacs with
 '<slime-connect>' command.  Then evaluate the entire
 src/clojureTetris/main.clj file to start playing Tetris.
 
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 

@@ -1,18 +1,19 @@
 # clojureTetris
 
-<img src="http://github.com/downloads/thomanil/clojureTetris/screenshot.jpg" alt="clojureTetris screenshot" />
-
 ## DESCRIPTION:
 
 A simple Tetris implementation used to learn basic Clojure,
 interactive programming and OpenGl. Uses Penumbra
 (http://github.com/ztellman/penumbra) to interface with OpenGL.
 
-See more info in this blog post: http://messynotebook.com/?p=1496
+See [more info in this blog post: (messynotebook.com)](http://messynotebook.com/?p=1496)
+
+<img src="http://github.com/downloads/thomanil/clojureTetris/screenshot.jpg" alt="clojureTetris screenshot" />
+
 
 ## REQUISITES:
 
-Install Leiningen (http://github.com/technomancy/leiningen) if you
+Install [Leiningen](http://github.com/technomancy/leiningen) if you
 don't have it already.
 
 To run it using the approach given below, install Slime in Emacs.

@@ -1,5 +1,6 @@
 # clojureTetris
 
+<img src="http://github.com/downloads/thomanil/clojureTetris/screenshot.jpg" alt="clojureTetris screenshot" />
 
 ## DESCRIPTION:
 
@@ -13,6 +14,8 @@ See more info in this blog post: http://messynotebook.com/?p=1496
 
 Install Leiningen (http://github.com/technomancy/leiningen) if you
 don't have it already.
+
+To run it using the approach given below, install Slime in Emacs.
 
 ## INSTALL:
 

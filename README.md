@@ -3,8 +3,7 @@
 ## DESCRIPTION:
 
 A simple Tetris implementation used to learn basic Clojure,
-interactive programming and OpenGl. Uses Penumbra
-(http://github.com/ztellman/penumbra) to interface with OpenGL.
+interactive programming and OpenGl. Uses [Penumbra](http://github.com/ztellman/penumbra) to interface with OpenGL.
 
 See [more info in this blog post: (messynotebook.com)](http://messynotebook.com/?p=1496)
 

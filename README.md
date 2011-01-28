@@ -7,7 +7,7 @@ interactive programming and OpenGl. Uses [Penumbra](http://github.com/ztellman/p
 
 See [more info in this blog post: (messynotebook.com)](http://messynotebook.com/?p=1496)
 
-<img src="https://github.com/thomanil/clojureTetris/blob/master/screenshot.jpg" alt="clojureTetris screenshot" />
+<img src="http://github.com/thomanil/clojureTetris/blob/master/screenshot.jpg" alt="clojureTetris screenshot" />
 
 
 ## REQUISITES:
